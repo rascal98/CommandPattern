@@ -1,0 +1,10 @@
+C:\Users\umute\source\repos\Command\Command\bin\Debug\netcoreapp2.1\Command.deps.json
+C:\Users\umute\source\repos\Command\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.json
+C:\Users\umute\source\repos\Command\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.dev.json
+C:\Users\umute\source\repos\Command\Command\bin\Debug\netcoreapp2.1\Command.dll
+C:\Users\umute\source\repos\Command\Command\bin\Debug\netcoreapp2.1\Command.pdb
+C:\Users\umute\source\repos\Command\Command\obj\Debug\netcoreapp2.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\umute\source\repos\Command\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfoInputs.cache
+C:\Users\umute\source\repos\Command\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfo.cs
+C:\Users\umute\source\repos\Command\Command\obj\Debug\netcoreapp2.1\Command.dll
+C:\Users\umute\source\repos\Command\Command\obj\Debug\netcoreapp2.1\Command.pdb
